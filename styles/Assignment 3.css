@@ -1,0 +1,20 @@
+body
+{
+    margin:50px 0px; padding:0px;
+    text-align: center;
+    background-color: rgb(143, 36, 178);
+    width: 400px;         
+}
+
+#center {
+     width:600px;
+	margin:0px auto;
+	text-align:center;
+	padding:15px;
+	border:1px dashed #333;
+        color: white;
+}
+section.section
+{
+    display: inherit;
+}
